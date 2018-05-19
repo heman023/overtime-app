@@ -23,3 +23,5 @@ group :development do
   gem 'spring', '~> 2.0', '>= 2.0.2'
   gem 'listen', '~> 3.1', '>= 3.1.5'
 end
+
+gem 'devise', '~> 4.4', '>= 4.4.3'

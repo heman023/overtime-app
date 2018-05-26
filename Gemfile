@@ -27,3 +27,5 @@ end
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'gritter', '~> 1.2'
+gem 'administrate', '~> 0.10.0'
+gem 'bourbon', '~> 5.0'

@@ -11,7 +11,6 @@
 // about supported directives.
 //
 // app/assets/javascripts/application.js
-
 //= require jquery
 //= require bootstrap-sprockets
 //= require gritter

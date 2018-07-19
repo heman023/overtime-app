@@ -14,7 +14,15 @@
 - x Block non-admin and guest users from admin dashboard
 - Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
-- Create audit log for each text message
+- Need to update end_date when confirmed
+- Need to update audit log status when an overtime is rejected
+- Update buttons on employee homepage to show on mobile
+- Update buttons to have full time range instead of just week of
+- Update button sort order on employee homepage
+- Remove unnecessary nav bar buttons for managers
+- Fix admin dashboard bug
+- Implement Honeybadger error reporting 
+- Implement new relic for keeping site alive
 
 ## UI:
 - x Bootstrap -> formatting
@@ -22,4 +30,3 @@
 - x Update the styles for forms
 
 ## Refactor TODOS:
-- x Refactor posts/_form for admin user with status

@@ -14,6 +14,7 @@ Rails.application.configure do
   config.active_support.deprecation = :notify
   config.log_formatter = ::Logger::Formatter.new
   config.serve_static_assets = true
+  config.action_mailer.default_url_options = { :host => 'http://carbuhn-overtime.herokuapp.com/' }
   if ENV["RAILS_LOG_TO_STDOUT"].present?
     logger           = ActiveSupport::Logger.new(STDOUT)
     logger.formatter = config.log_formatter

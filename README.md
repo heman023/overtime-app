@@ -18,7 +18,7 @@
 - x Need to update audit log status when an overtime is rejected
 - x Update buttons on employee homepage to show on mobile
 - x Update buttons to have full time range instead of just week of
-- Update button sort order on employee homepage
+- x Update button sort order on employee homepage
 - Remove unnecessary nav bar buttons for managers
 - Fix admin dashboard bug
 - Implement Honeybadger error reporting 

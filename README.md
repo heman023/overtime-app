@@ -15,9 +15,9 @@
 - Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
 - x Need to update end_date when confirmed
-- Need to update audit log status when an overtime is rejected
-- Update buttons on employee homepage to show on mobile
-- Update buttons to have full time range instead of just week of
+- x Need to update audit log status when an overtime is rejected
+- x Update buttons on employee homepage to show on mobile
+- x Update buttons to have full time range instead of just week of
 - Update button sort order on employee homepage
 - Remove unnecessary nav bar buttons for managers
 - Fix admin dashboard bug
